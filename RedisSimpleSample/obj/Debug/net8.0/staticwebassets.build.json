@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "twG03xMcvoZhEwtHY21WGDZxJHLBSf0aRCCeNvOBrcs=",
+  "Source": "RedisSimpleSample",
+  "BasePath": "_content/RedisSimpleSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
